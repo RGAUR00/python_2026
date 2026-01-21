@@ -17,4 +17,4 @@ def calculate_love_score(name1,name2):
     love_score=str(first_digit)+str(second_digit)
     print(f"Your love score is {love_score}")
 
-calculate_love_score('Ansu Sharma','Ruchika Gaur')
+calculate_love_score('Kanye West','Kim Kardashian')
