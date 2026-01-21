@@ -4,10 +4,8 @@
 #     print("Have a great day!")
 # greet()
 
-def greet_with_name(name):
+def greet_with_name(name,location):
     print(f"Hello {name}!")
-    print(f"Welcome to the program {name}!")
-    print("Have a great day!")
+    print(f"What is it like in {location}!")
 
-
-greet_with_name(542)
+greet_with_name(location="Guwahati", name="Ansu")
